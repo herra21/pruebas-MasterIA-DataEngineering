@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto es una prueba para generar un conflicto
+=======
+Esta es otra edición para forzar un conflicto
+>>>>>>> prueba
